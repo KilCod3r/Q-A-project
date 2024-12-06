@@ -1,8 +1,19 @@
 const questions = [
-    { question: "What is the capital of France?", options: ["A) Berlin", "B) Madrid", "C) Paris", "D) Rome"], answer: "C" },
-    { question: "What is 2 + 2?", options: ["A) 3", "B) 4", "C) 5", "D) 6"], answer: "B" },
-    { question: "Who wrote 'Hamlet'?", options: ["A) Charles Dickens", "B) William Shakespeare", "C) Mark Twain", "D) Jane Austen"], answer: "B" },
-    { question: "What is the largest planet in our solar system?", options: ["A) Earth", "B) Mars", "C) Jupiter", "D) Saturn"], answer: "C" }
+    { question: "Who was the first angel Allah created", options: ["A) Jibreel", "B) Izrael", "C) Malik", "D) Israfeel"], answer: "A" },
+    { question: "Which Nabii was sent to pple of Aad", options: ["A) Hud", "B) Adam", "C) Idris", "D) Nuh"], answer: "A" },
+    { question: "Who killed the other", options: ["A) Habil killed Qabil", "B) Qabil killed Habil"], answer: "B" },
+    { question: "Who was the second Nabii after Adam", options: ["A) Sheeth", "B) Nuh", "C) Hud", "D) Idris"], answer: "D" },
+    { question: "How many years Nuh preached to his people", options: ["A) 1050", "B) 800", "C) 50", "D) 960"], answer: "D" },
+    { question: "Jahannam has how many levels", options: ["A) 3", "B) 4", "C) 7", "D) 6"], answer: "C" },
+    { question: "Jins were created before Adam", options: ["A) True", "B) False"], answer: "A" },
+    { question: "Allah created Hawa From..", options: ["A) Clay", "B) Light", "C) the ribs of Adam", "D) Fire"], answer: "C" },
+    { question: "Where did malakulMaut took soul of Idris", options: ["A) 4th Heaven", "B) Jahannam", "C) Earth", "D) Jannah"], answer: "A" },
+    { question: "Where did Qabil settled after he fled with his sister", options: ["A) Mountain", "B) Hills", "C) Flat lands", "D) Sea"], answer: "C" },
+    { question: "Which one is correct?", options: ["A) Sirat is a life between Qiyama and after death", "B) Jibreel was the first soul created", "C) Yauq,yaghuth,Nasra and Suwa were prophets after Idris", "D) Jins were created using light"], answer: "B" },
+    { question: "What was the first sin committed in this dunya ", options: ["A) shirk", "B) murder", "C) zina", "D) theft"], answer: "B" },
+    { question: "Do Jins have the ability to change their form", options: ["A) yes", "B) no"], answer: "A" },
+     { question: "Which angel created his work is to blow trumpet", options: ["A) Jibreel", "B) malakulMaut", "C) Israfeel", "D) Mikail"], answer: "C" },
+    { question: "Humans and Jins were only created to...", options: ["A) worship Allah", "B) just live their life in dunya", "C) work", "D) be grateful"], answer: "A" },
 ];
 
 let currentQuestionIndex = 0;
