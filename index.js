@@ -19,7 +19,7 @@ const questions = [
 let currentQuestionIndex = 0;
 let score = 0;
 const totalQuestions = questions.length;
-const timeLimit = 10; // seconds
+const timeLimit = 40; // seconds
 let timer;
 
 function startQuiz() {
